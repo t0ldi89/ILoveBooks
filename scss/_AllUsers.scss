@@ -1,0 +1,58 @@
+.allUsers {
+  display: flex;
+  flex-direction: column;
+  width: 450px;
+  margin-left: 20px;
+
+    h1{
+      font-size: 40px;
+      font-family: 'MedievalSharp', cursive ;
+      font-weight: bold;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+  .allUsersStyle{
+    display: flex;
+    flex-direction: row;
+    font-family: 'MedievalSharp', cursive ;
+    border: 1px solid sandybrown;
+    width: 100%;
+    margin-left: 20px;
+    padding: 10px;
+    font-weight: bold;
+
+    p{
+      font-family: 'MedievalSharp', cursive ;
+      font-size: 20px;
+      font-weight: bold;
+    }
+  }
+  .allUsersStyle:hover{
+    transform: scale(1.1);
+    border: 2px solid sandybrown;
+  }
+  .allUsersMain{
+    width: 100%;
+    div {
+      font-size: 15px;
+      display: flex;
+      flex-direction: row;
+      margin: 5px;
+      padding: 5px;
+      justify-content: space-between;
+      align-items:center;
+      input {
+        justify-content: flex-end;
+      }
+    }
+  }
+
+}
+.bar{
+  height: 350px;
+  width: 100%;
+}
+
+
+
+

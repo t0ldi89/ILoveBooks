@@ -1,0 +1,356 @@
+{
+  "users": [
+    {
+      "name": "Tymek",
+      "surname": "Stefański",
+      "id": 1
+    },
+    {
+      "name": "Kris",
+      "surname": "From Poland",
+      "id": 2
+    }
+  ],
+  "books": [
+    {
+      "title": "Wiedzmin",
+      "author": "Andzrej Sapkowski",
+      "dataStart": {
+        "sDay": "02",
+        "sMonth": "01",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "06",
+        "eMonth": "01",
+        "eYear": "2019"
+      },
+      "genre": "Fantasy",
+      "page": "120",
+      "rank": 5,
+      "descript": "Krew, seks i mooord !",
+      "idUser": 1,
+      "id": 5
+    },
+    {
+      "title": "Jakub Wedrowniczek",
+      "author": "Pilipiuk",
+      "dataStart": {
+        "sDay": "02",
+        "sMonth": "03",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "04",
+        "eMonth": "03",
+        "eYear": "2019"
+      },
+      "genre": "Fantasy",
+      "page": "121",
+      "rank": 3,
+      "descript": "Opowieśc o starym bimbrowniku",
+      "idUser": 1,
+      "id": 6
+    },
+    {
+      "title": "Wiedzmin",
+      "author": "Sapkowski",
+      "dataStart": {
+        "sDay": "14",
+        "sMonth": "06",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "15",
+        "eMonth": "08",
+        "eYear": "2019"
+      },
+      "genre": "Fantasy",
+      "page": "472",
+      "rank": 5,
+      "descript": "Wieśiek rules",
+      "idUser": 1,
+      "id": 7
+    },
+    {
+      "title": "Dupiata ksiazka vol 2",
+      "author": "Dupiaty autor",
+      "dataStart": {
+        "sDay": "15",
+        "sMonth": "09",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "17",
+        "eMonth": "09",
+        "eYear": "2019"
+      },
+      "genre": "Thriller",
+      "page": "472",
+      "rank": 2,
+      "descript": "Dupa dupa ",
+      "idUser": 1,
+      "id": 8
+    },
+    {
+      "title": "Dupiata ksiazka vol 2",
+      "author": "Dupiaty autor",
+      "dataStart": {
+        "sDay": "15",
+        "sMonth": "09",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "17",
+        "eMonth": "09",
+        "eYear": "2019"
+      },
+      "genre": "Fantasy",
+      "page": "472",
+      "rank": 2,
+      "descript": "Dupa dupa ",
+      "idUser": 1,
+      "id": 8
+    },
+    {
+      "title": "Dupiata ksiazka vol 2",
+      "author": "Dupiaty autor",
+      "dataStart": {
+        "sDay": "15",
+        "sMonth": "09",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "17",
+        "eMonth": "09",
+        "eYear": "2019"
+      },
+      "genre": "Fantasy",
+      "page": "472",
+      "rank": 2,
+      "descript": "Dupa dupa ",
+      "idUser": 1,
+      "id": 8
+    },
+    {
+      "title": "Dupiata ksiazka vol 2",
+      "author": "Dupiaty autor",
+      "dataStart": {
+        "sDay": "15",
+        "sMonth": "09",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "17",
+        "eMonth": "09",
+        "eYear": "2019"
+      },
+      "genre": "Fantasy",
+      "page": "472",
+      "rank": 2,
+      "descript": "Dupa dupa ",
+      "idUser": 1,
+      "id": 8
+    },
+    {
+      "title": "Dupiata ksiazka vol 2",
+      "author": "Dupiaty autor",
+      "dataStart": {
+        "sDay": "15",
+        "sMonth": "09",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "17",
+        "eMonth": "09",
+        "eYear": "2019"
+      },
+      "genre": "Fantasy",
+      "page": "472",
+      "rank": 2,
+      "descript": "Dupa dupa ",
+      "idUser": 1,
+      "id": 8
+    },
+    {
+      "title": "To",
+      "author": "King",
+      "dataStart": {
+        "sDay": "08",
+        "sMonth": "10",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "09",
+        "eMonth": "10",
+        "eYear": "2019"
+      },
+      "genre": "Thriller",
+      "page": "785",
+      "rank": 3,
+      "descript": "Trzyma w napięciu do ostatniej strony",
+      "idUser": 1,
+      "id": 9
+    },
+    {
+      "title": "Sensacyjna ",
+      "author": "Autor sensacyjny",
+      "dataStart": {
+        "sDay": "08",
+        "sMonth": "06",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "09",
+        "eMonth": "06",
+        "eYear": "2019"
+      },
+      "genre": "Sensational",
+      "page": "410",
+      "rank": 1,
+      "descript": "Nie fajna",
+      "idUser": 1,
+      "id": 10
+    },
+    {
+      "title": "Sensacyjna 2",
+      "author": "Nieznany",
+      "dataStart": {
+        "sDay": "05",
+        "sMonth": "09",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "05",
+        "eMonth": "09",
+        "eYear": "2019"
+      },
+      "genre": "Sensational",
+      "page": "120",
+      "rank": 1,
+      "descript": "Fajny",
+      "idUser": 1,
+      "id": 11
+    },
+    {
+      "title": "Odyseja kosmiczna",
+      "author": "NIe wiem",
+      "dataStart": {
+        "sDay": "05",
+        "sMonth": "07",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "05",
+        "eMonth": "07",
+        "eYear": "2019"
+      },
+      "genre": "Science Fiction",
+      "page": "120",
+      "rank": 2,
+      "descript": "Kosmos nic więcej",
+      "idUser": 1,
+      "id": 12
+    },
+    {
+      "title": "Ja inkwizytor vol 1",
+      "author": "Ziemiański",
+      "dataStart": {
+        "sDay": "04",
+        "sMonth": "06",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "05",
+        "eMonth": "06",
+        "eYear": "2019"
+      },
+      "genre": "Fantastic",
+      "page": "632",
+      "rank": 3,
+      "descript": "Mega książka  o inkwizycji",
+      "idUser": 1,
+      "id": 13
+    },
+    {
+      "title": "Ja inkwizytor vol 1",
+      "author": "Ziemiański",
+      "dataStart": {
+        "sDay": "04",
+        "sMonth": "06",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "05",
+        "eMonth": "06",
+        "eYear": "2019"
+      },
+      "genre": "Fantastic",
+      "page": "632",
+      "rank": 3,
+      "descript": "Mega książka  o inkwizycji",
+      "idUser": 1,
+      "id": 13
+    },
+    {
+      "title": "Ja inkwizytor vol 1",
+      "author": "Ziemiański",
+      "dataStart": {
+        "sDay": "04",
+        "sMonth": "06",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "05",
+        "eMonth": "06",
+        "eYear": "2019"
+      },
+      "genre": "Fantastic",
+      "page": "632",
+      "rank": 3,
+      "descript": "Mega książka  o inkwizycji",
+      "idUser": 1,
+      "id": 13
+    },
+    {
+      "title": "Ja inkwizytor vol 1",
+      "author": "Ziemiański",
+      "dataStart": {
+        "sDay": "04",
+        "sMonth": "06",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "05",
+        "eMonth": "06",
+        "eYear": "2019"
+      },
+      "genre": "Fantastic",
+      "page": "632",
+      "rank": 3,
+      "descript": "Mega książka  o inkwizycji",
+      "idUser": 1,
+      "id": 13
+    },
+    {
+      "title": "Ja inkwizytor vol 1",
+      "author": "Ziemiański",
+      "dataStart": {
+        "sDay": "04",
+        "sMonth": "06",
+        "sYear": "2019"
+      },
+      "dataEnd": {
+        "eDay": "05",
+        "eMonth": "06",
+        "eYear": "2019"
+      },
+      "genre": "Fantastic",
+      "page": "632",
+      "rank": 3,
+      "descript": "Mega książka  o inkwizycji",
+      "idUser": 1,
+      "id": 13
+    }
+  ]
+}

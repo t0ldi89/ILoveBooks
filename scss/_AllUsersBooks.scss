@@ -1,0 +1,80 @@
+.allUsersBook{
+  border: 2px sandybrown solid;
+  width:480px;
+  height: 480px;
+  overflow: auto;
+  position: relative;
+  z-index: auto;
+  .info{
+    background-color: sandybrown;
+    width: 100%;
+  }
+  i:hover {
+    color: sandybrown;
+  }
+  .borderHeder{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'MedievalSharp', cursive;
+    margin: 10px;
+  }
+  ul{
+    padding: 0 10px 0 10px;
+    li{
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+      justify-content: space-between;
+      list-style: none;
+      border: 1px dashed brown;
+      div{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        p{
+
+          padding: 0 5px 0 5px;
+        }
+      }
+      i{
+        font-size: 50px;
+        margin-right: 10px;
+        color:brown;
+      }
+      .tooltip {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+      }
+      .tooltip .tooltiptext {
+        visibility: hidden;
+        width: 120px;
+        background-color: brown;
+        color: #fff;
+        text-align: center;
+        padding: 5px 0;
+        top: -25px;
+        left: -105px;
+        position: absolute;
+        z-index: 1;
+      }
+      .tooltip:hover .tooltiptext {
+        visibility: visible;
+      }
+    }
+  }
+}
+.info{
+  background-color: black;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: -10%
+}
+.deleteBtn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}

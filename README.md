@@ -4,10 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-<<<<<<< HEAD
 * [Sample pictures](#sample-pictures)
-=======
->>>>>>> 3d1746f6ef2604dc20bcaf1fecf006e662f154fb
 
 ## General info
 An application used to add read books by a user created by him. The application allows you to see statistics of books read, the time that has elapsed since reading the last book, etc. The application saves and downloads data from json-server using the Fetch API
@@ -33,8 +30,10 @@ To run json.server:
 $ cd ../lorem
 $ json-server book.json.server
 
-<<<<<<< HEAD
 ## Sample-pictures
-![Main menu](./img/1.jpg)
-=======
->>>>>>> 3d1746f6ef2604dc20bcaf1fecf006e662f154fb
+![Main menu](./img/1.png)
+![Add user](./img/2.png)
+![Last Nesw](./img/3.png)
+![Add new book](./img/4.png)
+![Achievements](./img/5.png)
+![More info about book](./img/6.png)

@@ -30,7 +30,7 @@ To run json.server:
 $ cd ../lorem
 $ json-server book.json.server
 
-## Sample-pictures
+## Sample pictures
 ![Main menu](./img/1.png)
 ![Add user](./img/2.png)
 ![Last Nesw](./img/3.png)

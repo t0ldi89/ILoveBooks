@@ -29,6 +29,7 @@ To run json.server:
 ```
 $ cd ../lorem
 $ json-server book.json.server
+```
 
 ## Sample pictures
 ![Main menu](./img/1.png)

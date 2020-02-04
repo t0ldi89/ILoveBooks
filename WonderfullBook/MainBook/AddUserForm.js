@@ -38,9 +38,6 @@ class AddUserForm extends Component {
         const {visible} = this.props;
         return this.props.visible ? (
             <form onSubmit={this.handleOnAdd} className='addUserForm'>
-                <div className='closeForm' onClick={this.handleOnclik}>
-                    <p>X</p>
-                </div>
                 <div>
                     <p>Name</p>
                     <input name='name' type='text' value={this.state.name} onChange={this.handleOnChange}/>
